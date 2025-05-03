@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/text2go-ai-humanizer-mcp-server-badge.png)](https://mseep.ai/app/text2go-ai-humanizer-mcp-server)
+
 # AI Humanize MCP Server
 ---
 A powerful Model Context Protocol (MCP) server that helps refine AI-generated content to sound more natural and human-like. Built with advanced AI detection and text enhancement capabilities.
